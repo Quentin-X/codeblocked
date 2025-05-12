@@ -1,1 +1,1 @@
-A forum for Sitetransform.css
+The official code sharing platform for Bloxd.io.
